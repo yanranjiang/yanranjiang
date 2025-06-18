@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanranjiang
 - 👀 I’m interested in human motion analysis, machine learning and deep learning.
-- 🌱 I’m currently a PhD stduent from Monash University. My research topic is to develop a predictive and proactive fatigue monitoring framework from wearable sensors using machine learning/deep learning techniques.
+- 🌱 I’m a PhD graduate from Monash University. My research topic is to develop a predictive and proactive fatigue monitoring framework from wearable sensors using machine learning/deep learning techniques.
 - 💞️ I’m looking for collaboration.
 - 📫 irenejiang09@gmail.com
 
